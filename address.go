@@ -17,6 +17,6 @@ func main() {
 	fmt.Println("Enter your street name: ")
 	fmt.Scanln(&streetName)
 
-	fmt.Println("Your street address is:", streetNumber, streetName, "\n")
-	fmt.Println("Done :)")
+	fmt.Println("Your street address is:", streetNumber, streetName)
+	fmt.Println("\nDone :)")
 }
