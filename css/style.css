@@ -1,0 +1,16 @@
+body{
+  background-color: lightcyan;
+  font-family: sans-serif;
+}
+
+h1{
+  color: blanchedalmond;
+}
+
+h3{
+  color: lightpink;
+}
+
+#address {
+  color: yellowgreen;
+}
